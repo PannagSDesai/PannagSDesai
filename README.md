@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PannagSDesai
-- 👀 I’m interested in World
-- 🌱 I’m currently learning Everything around me
-- 💞️ I’m looking to collaborate on realising better
+- 👀 I’m interested in anything that is geeky
 - 📫 How to reach me @VPANNAGS, DSbihi123@gmail.com
 
 <!---
