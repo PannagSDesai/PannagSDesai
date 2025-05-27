@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pannag S Desai</h1>
 
 <p align="center">
-  <img src="https://github.com/PannagSDesai/PannagSDesai/blob/main/assets/banner.png" alt="Banner" width="80%" />
+  <img src="https://github.com/PannagSDesai/PannagSDesai/blob/main/banner.png" alt="Banner" width="80%" />
 </p>
 
 ## 👨‍💻 About Me
